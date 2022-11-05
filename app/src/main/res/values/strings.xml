@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YahooApiApp</string>
+    <string name = "barcode_text">バーコード読み取り</string>
 </resources>
